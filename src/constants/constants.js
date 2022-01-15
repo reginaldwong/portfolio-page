@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Sign Up Form',
+    description: "Sign up form created with React and styled with CSS.",
+      image: '/images/sign-up-form.png',
+      tags: ['React', 'CSS'],
+    source: 'https://reginaldwong.github.io/sign-up-form/',
+    visit: 'https://github.com/reginaldwong/sign-up-form',
+    id: 0,
+  },
+  {
     title: 'Drum Machine',
     description:"Inspired by the Roland TR-808, this drum machine written in JavaScript uses event listeners to play tr-808 drum samples according to the key pressed by the user.",
     image: '/images/2.png',

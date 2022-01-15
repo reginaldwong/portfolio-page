@@ -48,6 +48,9 @@ const Timeline = () => {
       <SectionText>
         Hi! I am a highly motivated self-starter pursuing a career as a software developer. My interest in web development began growing up as a kid using services like Freewebs to design and create my own websites. Years later, I have revisited my childhood hobby while working in the accounting and finance industry and learned the necessary skills and tools required to build exceptional websites and applications.
       </SectionText>
+      <SectionText>
+        I'm familiar with a variety of programming languages, including JavaScript (ES6+), HTML, CSS, jQuery, React.js and TypeScript. More recently, I've started diving into the back end by learning Node.js, MongoDB, and Express.js.
+      </SectionText>
     </Section>
   );
 };
